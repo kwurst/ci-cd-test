@@ -2,7 +2,7 @@ language: java
 notifications:
     webhooks:
         urls:
-            - http://software-development.w-sts.com/cs-348/ci-cd-test/deploy.cgi
+            - http://cs.worcester.edu/cgi-bin/cs-348/ci-cd-test/deploy.cgi
         on_success: always
         on_failure: never
         on_start: never
