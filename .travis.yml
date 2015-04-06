@@ -1,8 +1,8 @@
 language: java
 notifications:
-	webhooks:
-		urls:
-			- http://software-development.w-sts.com/cs-348/ci-cd-test/deploy.cgi
-		on_success: always
-		on_failure: never
-		on_start: never
+    webhooks:
+        urls:
+            - http://software-development.w-sts.com/cs-348/ci-cd-test/deploy.cgi
+        on_success: always
+        on_failure: never
+        on_start: never
